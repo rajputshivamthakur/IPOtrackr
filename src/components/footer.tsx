@@ -18,7 +18,7 @@ export default function Footer() {
           </div>
           <div className="flex flex-col items-center sm:items-end gap-2 mt-2 sm:mt-0">
             <a
-              href="https://github.com/rajputshivamthakur/IPOtracker"
+              href="https://github.com/rajputshivamthakur/IPOtrackr"
               target="_blank"
               rel="noopener noreferrer"
             >
